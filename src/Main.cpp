@@ -2,9 +2,9 @@
 
 int main(int argc, char const *argv[])
 {
-    int first = 0;
+    double first = 0;
     int func  = 0;
-    int second = 0;
+    double second = 0;
     std::cout << "Enter first number: ";
     std::cin >> first;
     std::cout << "Choose between:\n1)Addition\n2)Subtraction\n3)Multiplication\n4)Division" << std::endl;
