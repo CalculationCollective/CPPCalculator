@@ -17,15 +17,16 @@ int main(int argc, char const *argv[])
         std::cout << first + second << std::endl;
         break;
     case 2:
-        /* code */
+        std::cout << first - second << std::endl;
         break;
     case 3:
-        /* code */
+        std::cout << first * second << std::endl;
         break;
     case 4:
-        /* code */
+        std::cout << first / second << std::endl;
         break;
     default:
+        std::cout << "No valid function choosen" << std::endl;
         break;
     }
     return 0;
