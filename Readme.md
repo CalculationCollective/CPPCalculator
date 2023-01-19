@@ -26,10 +26,10 @@ You can build it with
 make
 ```
 
-We now should have a `calculater` file in our folder. We can easily execute this with 
+We now should have a `calculator` file in our folder. We can easily execute this with 
 
 ```bash 
-./calculater
+./calculator
 ```
 
 ## Use the calculator
