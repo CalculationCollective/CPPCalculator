@@ -1,5 +1,10 @@
 # CPPCalculator
 
+- [CPPCalculator](#cppcalculator)
+  - [Build the calculator](#build-the-calculator)
+  - [Use the calculator](#use-the-calculator)
+
+
 ## Build the calculator
 To build this project you will need make and CMake.
 To start we'll need a folder prefered with the name build.
@@ -28,6 +33,7 @@ We now should have a `calculater` file in our folder. We can easily execute this
 ```
 
 ## Use the calculator
+
 After executing the calculator you can enter the first number.
 ```bash
 Enter first number: 5 # 5 is the input
